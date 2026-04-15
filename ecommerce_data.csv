@@ -1,0 +1,13 @@
+OrderID,CustomerID,Gender,Age,City,Product,Category,Price,Quantity,OrderDate,PaymentMethod,Rating
+1001,C101,Male,28,Bangalore,Phone,Electronics,20000,1,2024-01-10,UPI,4
+1002,C102,Female,34,Delhi,Laptop,Electronics,55000,1,2024-01-11,Card,5
+1003,C103,Male,22,Mumbai,Headphones,Electronics,2000,2,2024-01-12,COD,3
+1004,C104,Female,45,Chennai,Sofa,Furniture,15000,1,2024-01-13,UPI,4
+1005,C105,Male,30,Bangalore,T-shirt,Clothing,500,3,2024-01-14,Card,2
+1006,C101,Male,28,Bangalore,Mouse,Electronics,800,2,2024-01-15,UPI,5
+1007,C106,Female,26,Delhi,Dress,Clothing,1500,1,2024-01-16,COD,4
+1008,C107,Male,35,Mumbai,Table,Furniture,7000,1,2024-01-17,Card,3
+1009,C108,Female,29,Chennai,Phone,Electronics,18000,1,2024-01-18,UPI,5
+1010,C109,Male,40,Bangalore,Chair,Furniture,3000,2,2024-01-19,COD,4
+1011,C110,Female,31,Delhi,Laptop,Electronics,60000,1,2024-01-20,Card,5
+1012,C111,Male,27,Mumbai,T-shirt,Clothing,700,2,2024-01-21,UPI,3
